@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm currently learning C#
+- I'm going to start learning Python next couple weeks
 <!--
 **under1aker11/under1aker11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
